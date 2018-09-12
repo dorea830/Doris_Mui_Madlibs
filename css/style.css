@@ -1,0 +1,24 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	line-height: 40px;
+	font-size: 20px;
+	background-image: url(../img/sea.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+
+.tac {
+	text-align: center
+}
+
+span {
+	color: #0080ff;
+	font-weight: bold;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
