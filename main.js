@@ -1,7 +1,7 @@
 var adjective = ['sunny', 'gloomy', 'windy', 'chilly'];
 var creature = ['squid', 'whale', 'turtle', 'tuna'];
 var verb = ['dancing', 'laughing', 'burping', 'singing', 'blushing'];
-var verb2 = ['swimming away', 'doing the boogie', 'blushing too'];
+var verb2 = ['swimming away', 'doing the boogie', 'eating kelp'];
 
 var randomAdjective = Math.floor( Math.random() * adjective.length); 
 var randomCreature = Math.floor( Math.random() * creature.length);
